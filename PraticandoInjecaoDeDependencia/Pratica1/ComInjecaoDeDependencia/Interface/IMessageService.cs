@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PraticandoInjecaoDeDependencia.ComInjecaoDeDependencia.Interface
+namespace PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia.Interface
 {
     // Definimos uma interface para abstrair o serviço
     public interface IMessageService

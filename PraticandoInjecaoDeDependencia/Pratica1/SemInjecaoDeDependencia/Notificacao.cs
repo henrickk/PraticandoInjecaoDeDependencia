@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PraticandoInjecaoDeDependencia.SemInjecaoDeDependencia
+namespace PraticandoInjecaoDeDependencia.Pratica1.SemInjecaoDeDependencia
 {
     public class Notificacao
     {

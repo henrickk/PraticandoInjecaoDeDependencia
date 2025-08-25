@@ -1,11 +1,11 @@
-﻿using PraticandoInjecaoDeDependencia.ComInjecaoDeDependencia.Interface;
+﻿using PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PraticandoInjecaoDeDependencia.ComInjecaoDeDependencia
+namespace PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia
 {
     // Outra implementação - SMS
     public class SmsService : IMessageService
