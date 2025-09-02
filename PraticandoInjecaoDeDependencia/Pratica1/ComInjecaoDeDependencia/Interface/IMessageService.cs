@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia.Interface
 {
-    // Definimos uma interface para abstrair o serviço
     public interface IMessageService
     {
         void Send(string message);

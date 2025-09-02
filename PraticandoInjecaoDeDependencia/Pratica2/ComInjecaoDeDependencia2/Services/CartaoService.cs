@@ -12,7 +12,7 @@ namespace PraticandoInjecaoDeDependencia.Pratica2.ComInjecaoDeDependencia2.Servi
     {
         public void ProcessarPagamento(Pagamento pagamento)
         {
-            Console.WriteLine($"💳 Pagamento de {pagamento.Valor} processado no cartão!");
+            Console.WriteLine($"Pagamento de {pagamento.Valor} processado no cartão!");
         }
     }
 }

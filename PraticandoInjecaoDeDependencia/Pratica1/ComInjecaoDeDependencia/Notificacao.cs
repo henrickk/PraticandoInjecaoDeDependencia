@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia
 {
-    // Classe que depende da abstração (interface) e não da implementação
     public class Notification
     {
         private readonly IMessageService _messageService;
 
-        // Injeção de dependência via construtor
         public Notification(IMessageService messageService)
         {
             _messageService = messageService;

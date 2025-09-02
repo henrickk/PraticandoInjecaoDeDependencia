@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace PraticandoInjecaoDeDependencia.Pratica1.ComInjecaoDeDependencia
 {
-    // Implementação concreta - Email
     public class EmailService : IMessageService
     {
         public void Send(string message)

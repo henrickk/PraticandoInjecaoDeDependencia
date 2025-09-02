@@ -8,7 +8,7 @@ namespace PraticandoInjecaoDeDependencia.Pratica1.SemInjecaoDeDependencia
 {
     public class Notificacao
     {
-        private EmailService _emailService = new EmailService(); // acoplamento forte
+        private EmailService _emailService = new EmailService();
 
         public void SendNotification(string message)
         {
